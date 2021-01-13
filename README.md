@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm Anurag, an aspiring Full Stack Web Developer 🚀 from [@JUIT](https://www.juit.ac.in/).
+Hi, I'm Anurag, an aspiring Full Stack Web Developer 🚀 from India and currently an intern in [@Paathsala.world](https://paathshala.world/) ,Student of [@Jaypee University of Information Technology](https://www.juit.ac.in/).
 
 <br />
 
@@ -36,7 +36,7 @@ coffee.Drink();
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on building a npm package:wink:;
-- I'm currently actively looking for an Internship 
+- :weary:;I'm currently struggling in Data Structures and Algorithms
 - 🌱 I’m currently learning React and commander.js; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AnuragK03730860](https://twitter.com/AnuragK03730860);
