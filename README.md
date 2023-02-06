@@ -5,11 +5,12 @@
 <a href="https://www.linkedin.com/in/aknrg77/">
   <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=aknrg77.aknrg77)
 
 <br />
 
-Hi, I'm Anurag, an Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com) ,Student of [@Jaypee University of Information Technology](https://www.juit.ac.in/).
+Hi, I'm Anurag, an Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com), Graduated from [@Jaypee University of Information Technology](https://www.juit.ac.in/).
 
 <br />
 
