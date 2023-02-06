@@ -17,11 +17,11 @@ Hi, I'm Anurag, an Backend Developer 🚀 from India currently working in [Bewak
 ```
 if (coffee.Empty)
 {
-coffee.Refill();
+  coffee.Refill();
 }
 else
 {
-coffee.Drink();
+  coffee.Drink();
 }
 ```
 
