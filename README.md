@@ -10,12 +10,12 @@
 
 <br />
 
-Hi, I'm Anurag, an Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com), Graduated from [@Jaypee University of Information Technology](https://www.juit.ac.in/).
+Hi, I'm Anurag, Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com), Graduated from [@Jaypee University of Information Technology](https://www.juit.ac.in/).
 
 <br />
 
 ```
-if (coffee.Empty)
+if(coffee.Empty)
 {
   coffee.Refill();
 }
