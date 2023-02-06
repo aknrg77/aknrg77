@@ -1,22 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/pFh8Ny6">
-  <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://twitter.com/AnuragK03730860">
   <img align="left" alt="Anurag's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/aknrg77/">
   <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/Lucifer627/">
-  <img align="left" alt="Anurag's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
 ![](https://visitor-badge.glitch.me/badge?page_id=aknrg77.aknrg77)
 
 <br />
 
-Hi, I'm Anurag, an aspiring Full Stack Web Developer 🚀 from India and currently an intern in [@Paathsala.world](https://paathshala.world/) ,Student of [@Jaypee University of Information Technology](https://www.juit.ac.in/).
+Hi, I'm Anurag, an Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com) ,Student of [@Jaypee University of Information Technology](https://www.juit.ac.in/).
 
 <br />
 
@@ -35,12 +28,12 @@ coffee.Drink();
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on building a npm package:wink:;
+- 👨🏽‍💻 I’m currently contributing to some open source projects
 - :weary:;I'm currently struggling in Data Structures and Algorithms
-- 🌱 I’m currently learning React and commander.js; 
+- 🌱 I’m currently diving into Web3 domain
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@AnuragK03730860](https://twitter.com/AnuragK03730860);
-- 📝[Resume](https://drive.google.com/file/d/1PUFF1AXbHCXAHKy1p34tFk0Tevel67fM/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1RNso550euvvJIITsrKVtMjpnDsMY8o78/view?usp=drivesdk)
 
 **Languages and Tools:**  
 
