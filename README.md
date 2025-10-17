@@ -79,11 +79,10 @@
 
 <h3 align="center">☕ Fun Code</h3>
 
-```java
+```
 if(coffee.isEmpty()) {
     coffee.refill();
 } else {
     coffee.drink();
 }
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p> <p align="center"> <b>"Code. Build. Learn. Repeat."</b> </p>
 ```
