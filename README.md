@@ -1,59 +1,89 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/AnuragK03730860">
-  <img align="left" alt="Anurag's Twitter" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/aknrg77/">
-  <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
-</a>
+<h1 align="center">Hey there 👋, I'm Anurag Kanaujia</h1>
+<h3 align="center">💻 Backend Engineer | Distributed Systems | Cloud | Data Pipelines</h3>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aknrg77.aknrg77)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aknrg77/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/aknrg77"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/aknrg77/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/code2hell"><img src="https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/aknrg627"><img src="https://img.shields.io/badge/-HackerRank-00EA64?logo=hackerrank&logoColor=white"></a>
+</p>
 
-<br />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aknrg77.aknrg77" alt="visitor badge"/>
+</p>
 
-Hi, I'm Anurag, Backend Developer 🚀 from India currently working in [Bewakoof.com](https://www.bewakoof.com), Graduated from [@Jaypee University of Information Technology](https://www.juit.ac.in/).
+---
 
-<br />
+<h3 align="center">🚀 About Me</h3>
 
-```
-if(coffee.Empty)
-{
-  coffee.Refill();
+<p align="center">
+  🏢 Backend Engineer @ <b>PayPal</b> (Bengaluru, India)  
+  <br>🧠 Passionate about <b>scalable systems</b>, <b>search architectures</b>, and <b>data engineering</b>  
+  <br>⚙️ Experienced in <b>Node.js</b>, <b>Spring Boot</b>, <b>Elasticsearch</b>, and <b>AWS</b>  
+  <br>🏗 Ex–<b>Bewakoof.com</b>, <b>Lynkit</b>, and <b>InterviewBit</b>  
+  <br>🏆 Winner of <b>Amadeus Hack The Journey 2022</b>  
+  <br>📚 500+ LeetCode problems solved | 3⭐ LeetCode | 5⭐ DSA HackerRank  
+</p>
+
+---
+
+<h3 align="center">⚡ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,typescript,javascript,python,cpp,ruby" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,react,vue,nestjs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,mongodb,mysql,elasticsearch,postman,git" />
+</p>
+
+---
+
+<h3 align="center">🧩 Highlighted Work</h3>
+
+- 🧱 <b>Data Migration Pipeline @ PayPal</b>  
+  Migrated **250M+ records** from BigQuery → AWS Kinesis using **Airflow DAGs**, reducing latency by **30%**
+
+- 🔍 <b>Elasticsearch Product Platform @ Bewakoof.com</b>  
+  Built PDP & PLP with **10x faster retrieval**, integrated Google Pub/Sub + Shopify to grow user base by **28%**
+
+- 🧭 <b>RFID Mapping Module @ Lynkit</b>  
+  Refactored and optimized backend flow, improving system reliability and performance by **15%**
+
+- ⚙️ <b>Scaler Topics @ InterviewBit</b>  
+  Designed low-level architecture following SOLID principles → **40% faster APIs**, **30% better scalability**
+
+---
+
+<h3 align="center">📈 My GitHub Stats</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aknrg77&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aknrg77&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aknrg77&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">🧮 Coding Profiles</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/aknrg77/">
+    <img src="https://leetcard.jacoblin.cool/aknrg77?theme=dark&font=Baloo%202&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">☕ Fun Code</h3>
+
+```java
+if(coffee.isEmpty()) {
+    coffee.refill();
+} else {
+    coffee.drink();
 }
-else
-{
-  coffee.Drink();
-}
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p> <p align="center"> <b>"Code. Build. Learn. Repeat."</b> </p>
 ```
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently contributing to some open source projects
-- :weary:;I'm currently struggling in Data Structures and Algorithms
-- 🌱 I’m currently diving into Web3 domain
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@AnuragK03730860](https://twitter.com/AnuragK03730860);
-- 📝[Resume](https://drive.google.com/file/d/1RNso550euvvJIITsrKVtMjpnDsMY8o78/view?usp=drivesdk)
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aknrg77&show_icons=true&theme=gotham" alt="aknrg77" />
-
-
-
-
